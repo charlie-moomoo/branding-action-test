@@ -1,0 +1,13 @@
+name: 'BAT'
+
+description: 'Branding action test.'
+
+icon: 'terminal'
+
+color: 'black'
+
+runs:
+
+  using: 'node12'
+
+  main: 'index.js'
